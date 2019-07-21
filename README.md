@@ -4,3 +4,5 @@
     
 - 2) Report Notebook (excluded code)
     https://github.com/Supanut-k/The_Neighborhood_Of_The_Condo/blob/master/The%20Condo%20Investments%20-%20Report.ipynb
+    
+![alt text](https://github.com/Supanut-k/The_Neighborhood_Of_The_Condo/blob/master/Maps/Map%20Images/map_clus.png)
